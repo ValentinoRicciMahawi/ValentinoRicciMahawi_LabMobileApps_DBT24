@@ -11,7 +11,7 @@ void main() {
   String? user = stdin.readLineSync();
 
   if (user == null || !pilihan.contains(user)) {
-    print('Gak valid!');
+    print('Gak valid');
     return;
   }
 
