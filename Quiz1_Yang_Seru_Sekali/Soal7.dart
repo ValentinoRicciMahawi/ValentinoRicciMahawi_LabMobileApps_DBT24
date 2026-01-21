@@ -16,6 +16,6 @@ void main() {
     }
   }
 
-  print("Hasil gabungannya adalah $gabungan");
-  print("Angka terbesar kedua adalah $terbesarKedua");
+  print("Hasil gabungannya : $gabungan");
+  print("Angka terbesar kedua : $terbesarKedua");
 }
